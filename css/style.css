@@ -626,7 +626,7 @@ h2 {
     }
     
     .resposta {
-        padding: 10rem;
+        padding: 6rem;
         font-size: small;
     }
 }
@@ -637,6 +637,11 @@ h2 {
 
     html {
         font-size: 50%;
+    }
+
+    .resposta {
+        padding: 4rem;
+        font-size: small;
     }
 
 }
