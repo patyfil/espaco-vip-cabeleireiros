@@ -566,6 +566,10 @@ h2 {
         padding: 2rem;
     }
 
+    .resposta {
+        padding: 10rem;
+        font-size:small;
+    }
 }
 
 @media (max-width:768px) {
@@ -619,6 +623,11 @@ h2 {
     .parte3 {
         width: 100%;
         text-align: center;
+    }
+    
+    .resposta {
+        padding: 10rem;
+        font-size: small;
     }
 }
 
