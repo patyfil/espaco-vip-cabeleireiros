@@ -626,8 +626,8 @@ h2 {
     }
     
     .resposta {
-        padding: 6rem;
-        font-size: small;
+        padding: 10rem;
+        font-size: smaller;
     }
 }
 
@@ -640,8 +640,8 @@ h2 {
     }
 
     .resposta {
-        padding: 4rem;
-        font-size: small;
+        padding: 10rem;
+        font-size: smaller;
     }
 
 }
